@@ -1,5 +1,5 @@
 SQL LLM - AI-Powered SQL Query Assistant
-🔗 Live Demo: https://sqlllm-zpxunk6wqjhrtvmfjzgxlp.streamlit.app/
+🔗 Live Demo: https://sqlllm3.streamlit.app/
 
 
 
